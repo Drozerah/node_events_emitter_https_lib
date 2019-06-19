@@ -1,0 +1,23 @@
+{
+  "name": "node_events_emitter_https_lib",
+  "version": "1.0.0",
+  "description": "A library that defines a GET method to do HTTPS requests that emits a Node event",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Thomas G. aka Drozerah",
+    "email": "drozerah@gmail.com",
+    "url": "https://github.com/Drozerah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drozerah/node_events_emitter_https_lib.git"
+  },
+  "license": "ISC"
+}
